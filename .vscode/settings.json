@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "iostream": "cpp",
+        "inputevent.h": "c",
+        "vdp.h": "c",
+        "genesis.h": "c"
+    }
+}
